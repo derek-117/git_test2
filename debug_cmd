@@ -1,0 +1,4 @@
+git log --oneline --graph --decorate branch1...master
+git log --oneline --graph --decorate branch1..master
+git log --oneline --graph --decorate master..branch1
+git log --oneline --graph --decorate master...branch1
